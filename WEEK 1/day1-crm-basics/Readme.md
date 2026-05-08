@@ -2,26 +2,26 @@
 
 ## What is CRM
 
-CRM stands for Customer Relationship Management. It is a technology used by companies to manage their interactions and relationships with customers and potential customers. CRM helps businesses store customer information, track communication, manage sales activities, and provide better customer service. Using a CRM platform like Salesforce, different departments such as sales, marketing, and customer support can work together using the same customer data in one unified system.
+CRM stands for Customer Relationship Management. It is a technology used by companies to manage their interactions and relationships with customers. CRM helps businesses store customer information, track communication, manage sales activities, and provide better customer service.
 
 ---
 
 ## Why Companies Use Salesforce
 
-Companies use Salesforce because it is a powerful cloud-based CRM platform that helps businesses improve customer relationships and business operations. Salesforce allows organizations to manage customer data securely, automate business processes, track sales pipelines, improve customer support, and generate reports for better decision-making. It also provides customization features so companies can build applications and workflows according to their business needs.
+Companies use Salesforce because it is a powerful cloud-based CRM platform that helps businesses improve customer relationships and business operations. Salesforce allows organizations to manage customer data securely, automate business processes, track sales pipelines, improve customer support, and generate reports for better decision-making.
 
 ---
 
 ## Salesforce Terms
 
 ### Account
-An Account represents a company, organization, or business that a company is working with. In Salesforce, all business-related information about a company is stored inside the Account object. For example, if a software company is dealing with TCS or Infosys, those companies are stored as Accounts.
+An Account represents a company, organization, or business that a company is working with. In Salesforce, all business related information about a company is stored inside the account.
 
 ### Contact
-A Contact represents a person associated with an Account. Contacts usually include customer details such as name, email, phone number, and designation. For example, the HR manager or sales manager working in a company can be stored as a Contact.
+A Contact represents a person associated with an Account. Contacts usually include customer details such as name, email, phone number, and designation.
 
 ### Opportunity
-An Opportunity represents a potential sales deal or business deal that a company is trying to close. It contains information related to the product or service being sold, deal amount, and sales stage. Opportunities help companies track ongoing business deals and revenue.
+An Opportunity represents a potential sales deal or business deal that a company is trying to close. It contains information related to the product or service being sold, deal amount, and sales stage.
 
 ---
 
