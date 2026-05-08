@@ -65,12 +65,12 @@ In this example, the college acts as the Account because it is the organization.
 ![Salesforce Values](screenshots/1.png)
 
 ## Salesforce Developer Quick Look
-![Developer Quick Look](2.png)
+![Developer Quick Look](screenshots/2.png)
 
 ## Trailhead Playground Management
-![Playground Management](3.png)
+![Playground Management](screenshots/3.png)
 
 ## Salesforce CRM
-![Salesforce CRM](4.png)
+![Salesforce CRM](screenshots/4.png)
 
 
