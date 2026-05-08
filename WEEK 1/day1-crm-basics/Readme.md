@@ -61,4 +61,16 @@ In this example, the college acts as the Account because it is the organization.
 
 # Screenshots
 
-(Add screenshots of completed modules and Trailhead Playground here)
+## Salesforce Values Quick Look
+![Salesforce Values](screenshots/1.png)
+
+## Salesforce Developer Quick Look
+![Developer Quick Look](2.png)
+
+## Trailhead Playground Management
+![Playground Management](3.png)
+
+## Salesforce CRM
+![Salesforce CRM](4.png)
+
+
