@@ -4,7 +4,6 @@
 
 Salesforce Platform is a cloud-based platform used to build and customize business applications. It helps companies manage customer data, automate work, and improve business processes. Salesforce provides many tools that help admins and developers create applications easily. It also supports both no-code and coding development.
 
----
 
 # Salesforce Platform Concepts
 
@@ -14,7 +13,6 @@ An App in Salesforce is a collection of related tabs, objects, and features used
 
 For example, the Sales app contains Accounts, Contacts, and Opportunities for managing customer and sales information.
 
----
 
 ## What is an Object?
 
@@ -25,7 +23,6 @@ Examples:
 - Contact
 - Opportunity
 
----
 
 ## What is a Tab?
 
@@ -34,7 +31,6 @@ A Tab is used to open and access objects or features in Salesforce. Tabs help us
 For example:
 The Accounts tab is used to open Account records.
 
----
 
 # Difference Between Configuration and Coding
 
@@ -48,7 +44,6 @@ Examples:
 
 Configuration is easier and faster for simple business requirements.
 
----
 
 ## Coding (Apex)
 
@@ -60,7 +55,6 @@ Examples:
 
 Coding gives more flexibility and advanced functionality.
 
----
 
 # Connecting CRM with Salesforce Platform
 
@@ -71,7 +65,6 @@ Example:
 - Contact = Person
 - Opportunity = Business deal
 
----
 
 # System Design Example
 
@@ -89,13 +82,10 @@ College Management App
 
 Students can apply for admission and view course details. Faculty can manage student information and attendance. Admin users can manage admissions and fee details using the Salesforce application.
 
----
 
 # Multi-Tenant Architecture
 
 Multi-tenant architecture means many companies use the same Salesforce servers and infrastructure, but their data is stored separately and securely. It is similar to many families living in different apartments inside the same building.
-
----
 
 # How Salesforce Extends Functionality
 
@@ -108,14 +98,12 @@ Salesforce allows developers to extend functionality using:
 
 These tools help developers create advanced business solutions.
 
----
 
 # Trailhead Modules Completed
 
 1. Agentforce 360 Platform Basics
 2. Agentforce 360 Platform Development Basics
 
----
 
 # Screenshots
 
@@ -124,4 +112,5 @@ These tools help developers create advanced business solutions.
 
 ## Trailhead lab
 ![Trailhead Object Manager](screenshots/1.png)
+
 ![Trailhead Contact](screenshots/2.png)
