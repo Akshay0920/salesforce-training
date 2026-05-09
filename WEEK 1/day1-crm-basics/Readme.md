@@ -4,13 +4,10 @@
 
 CRM stands for Customer Relationship Management. It is a technology used by companies to manage their interactions and relationships with customers. CRM helps businesses store customer information, track communication, manage sales activities, and provide better customer service.
 
----
 
 ## Why Companies Use Salesforce
 
 Companies use Salesforce because it is a powerful cloud-based CRM platform that helps businesses improve customer relationships and business operations. Salesforce allows organizations to manage customer data securely, automate business processes, track sales pipelines, improve customer support, and generate reports for better decision-making.
-
----
 
 ## Salesforce Terms
 
@@ -23,7 +20,6 @@ A Contact represents a person associated with an Account. Contacts usually inclu
 ### Opportunity
 An Opportunity represents a potential sales deal or business deal that a company is trying to close. It contains information related to the product or service being sold, deal amount, and sales stage.
 
----
 
 # Core Task 1: Business Flow
 
@@ -37,7 +33,7 @@ After that, an Opportunity is created. An Opportunity represents a possible busi
 
 When the deal is completed successfully and the customer purchases the product or service, the person officially becomes a Customer.
 
----
+
 
 # Core Task 2: Real-Life Mapping (College Admission Example)
 
@@ -48,7 +44,7 @@ When the deal is completed successfully and the customer purchases the product o
 
 In this example, the college acts as the Account because it is the organization. A student who contacts the college becomes a Lead initially. After confirming interest and collecting student details, the student becomes a Contact. The admission process then becomes an Opportunity because it represents a possible successful admission.
 
----
+
 
 # Trailhead Modules Completed
 
@@ -57,7 +53,7 @@ In this example, the college acts as the Account because it is the organization.
 3. Trailhead Playground Management
 4. Salesforce CRM 
 
----
+
 
 # Screenshots
 
