@@ -107,10 +107,10 @@ These tools help developers create advanced business solutions.
 
 # Screenshots
 
-## Agentforce 360 Platform Basics & Agentforce 360 Platform Development Basics
-![Platform Basics & Platform Development Basics badges](screenshots/3.png)
+## Agentforce 360 Platform Basics & Agentforce 360 Platform Development Basics badges
+![Platform Basics & Platform Development Basics](screenshots/3.png)
 
-## Trailhead lab
+## Trailhead Playground
 ![Trailhead Object Manager](screenshots/1.png)
 
 ![Trailhead Contact](screenshots/2.png)
