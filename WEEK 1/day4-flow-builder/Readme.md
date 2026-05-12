@@ -85,28 +85,7 @@ This automation automatically sends a confirmation email after a student success
 
 # Flow Process
 
-Student Registration Record Created
-
-↓
-
-Get Student and Course Details
-
-↓
-
-Decision: Registration Successful?
-
-↓
-
-If YES → Send Confirmation Email
-
-↓
-
-If NO → Show Error Message
-
-↓
-
-End Process
-
+This flow automatically starts when a student registration record is created. The flow retrieves student and course information and checks whether the registration process is successful. If the registration is successful, Salesforce automatically sends a confirmation email to the student. If there is any issue during registration, the flow shows an error message. This automation helps reduce manual work and improves communication efficiency.
 
 # Flow Diagram
 
