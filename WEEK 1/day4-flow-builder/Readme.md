@@ -107,7 +107,6 @@ If NO → Show Error Message
 
 End Process
 
----
 
 # Flow Diagram
 
@@ -192,6 +191,6 @@ Automation performs tasks the same way every time without forgetting steps. This
 ![Create_and_Update_records_in_flow](screenshots/2.png)
 
 
-## ## Record-Triggered Flow Created in Salesforce Flow Builder
+## Record-Triggered Flow Created in Salesforce Flow Builder
 ![Activated Flow](screenshots/3.png)
 
