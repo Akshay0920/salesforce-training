@@ -114,26 +114,25 @@ Programming allows developers to create custom solutions and handle advanced bus
 
 ## Apex & .NET Basics Module
 
-![Apex & .NET Basics Module Completion](1.png)
+![Apex & .NET Basics Module Completion](screenshots/1.png)
 
 
 ## Apex Basics & Database Module
 
-![Apex Basics & Database Module Completion](2.png)
+![Apex Basics & Database Module Completion](screenshots/2.png)
 
 
 ## Executing SOQL Queries in Salesforce Developer Console
 
-![SOQL Query Execution](developer_console_query.png)
+![SOQL Query Execution](screenshots/developer_console_query.png)
 
 
 ## SOSL Search Results Using Apex Debug Logs
 
-![SOSL Search Results](developer_console.png)
+![SOSL Search Results](screenshots/developer_console.png)
 
 
 ## Apex Class Implementation for Contact Search Using SOQL
 
-![Apex Class for Contact Search](3.png)
+![Apex Class for Contact Search](screenshots/3.png)
 
-The screenshot shows an Apex class using SOQL query to search Contact records based on last name and postal code.
