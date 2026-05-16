@@ -47,8 +47,8 @@ I understood the basics of Platform Events and CLI, but I still want to learn mo
 
 ## Figure 1: Platform Event Configuration in Salesforce Setup
 
-![Platform Event Setup](4.png)
+![Platform Event Setup](screenshots/4.png)
 
 ## Figure 2: Platform Event Apex Trigger in Developer Console
 
-![Platform Event Trigger](5.png)
+![Platform Event Trigger](screenshots/5.png)
