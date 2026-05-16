@@ -174,10 +174,6 @@ The system can become difficult to maintain, slower, and harder to debug.
 ## 6. Why should developers think carefully before automating actions?
 Poor automation design can create errors, performance problems, and unnecessary processing.
 
-## Successful Trigger Execution in Developer Console
-
-![Trigger Debug Log](screenshots/3.png)
-
 ## Bulkified Apex Trigger for Closed Opportunity Automation
 
 ![Closed Opportunity Trigger](screenshots/1.png)
@@ -186,3 +182,6 @@ Poor automation design can create errors, performance problems, and unnecessary 
 
 ![Account Address Trigger](screenshots/2.png)
 
+## Successful Trigger Execution in Developer Console
+
+![Trigger Debug Log](screenshots/3.png)
