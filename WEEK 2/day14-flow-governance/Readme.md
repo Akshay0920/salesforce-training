@@ -1,13 +1,5 @@
 # Day 14 - Flow Governance
 
-## Overview
-
-In enterprise applications, workflows and approvals are used to ensure that important actions are reviewed, validated, and authorized before execution. This prevents mistakes, unauthorized changes, security issues, and business risks.
-
-This document explains approval workflow design, branching flow logic, governance principles, and the importance of controlled workflows in enterprise systems.
-
----
-
 # What is Flow Governance?
 
 Flow Governance is the practice of controlling how business processes are executed through approvals, validations, permissions, and automated workflows.
