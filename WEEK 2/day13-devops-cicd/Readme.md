@@ -1,11 +1,5 @@
 # Day 13 - DevOps and CI/CD in Salesforce
 
-## Overview
-
-This assignment focuses on understanding DevOps, CI/CD pipelines, deployment workflows, version control, and enterprise software delivery. It explains how professional teams safely develop, test, and deploy applications while minimizing risks in production environments.
-
----
-
 # What is CI/CD?
 
 CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous Delivery).
